@@ -1,4 +1,4 @@
-package com.cinefy.chatappbackend;
+package com.chatApp.backend;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

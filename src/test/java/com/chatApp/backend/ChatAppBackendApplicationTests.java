@@ -1,4 +1,4 @@
-package com.cinefy.chatappbackend;
+package com.chatApp.backend;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
